@@ -14,7 +14,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/nexdm2026/NexDM-Releases/releases/download/v1.1.4/NexDM_x64-setup.exe
+  InstallerUrl: https://github.com/nexdm2026/NexDM-Releases/releases/download/V1.1.4/NexDM_x64-setup.exe
   InstallerSha256: 0DEDEC12ED9EE922FC2C13700B1CFCF26929EB5A8065E4CB2B74CEDB354C00D9
 ManifestType: installer
 ManifestVersion: 1.6.0
